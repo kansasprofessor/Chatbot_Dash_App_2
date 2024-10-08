@@ -1,0 +1,31 @@
+Location		Sunday	Monday	Tuesday	Wednesday	Thrusday	Friday	Saturday
+1	8am-8pm	Daniel Casimir (M)	Luis Blanco (M)	Ashton Weigland (M)	Daniel Casimir (M)	Michael Alyward (M)	Daniel Casimir (M)	Luis Blanco (M)
+1	8am-8pm	Luis Blanco	Daniel Casimir	(Empty)	Austin Boles	James Evans	Austin Boles	Andrew Luttrell
+1	8am-8pm	Ashton Weigland	(Empty)	Michael Alyward	Michael Alyward	Zach Eddings	Luis Blanco	(Empty)
+1	8am-8pm	(Empty)	Michael Alyward	James Evans	(Empty)	Alex Jager	Michael Alwayrd	(Empty)
+1	8am-8pm	James Evans	James Evans	Alex Jager	Ashton Weigland	Ed Cumberland	(Empty)	Zach Eddings
+1	8pm-8am	Max Schempf (M)	Max Schempf (M)	Luis Blanco (M)	Max Schempf (M)	Ashton Weigland (M)	Daniel Casimir (M)	Ashton Weigland
+1	8pm-8am	Andrew Luttrell	Andrew Luttrell	Seth Hensarling	Daniel Hensarling	Seth Hensarling	Daniel Hensarling	James Evans
+1	8pm-8am	Ed Cumberland	Ed Cumberland	Daniel Hensarling	Andrew Luttrell	Tim Price	Zach Eddings	Alex Jager
+1	8pm-8am	Tim Price	(Empty)	Daniel Dunn	Daniel Dunn	Andrew Stene	Ed Cumberland	Andrew Stene
+1	8pm-8am	Zach Eddings	Zach Eddings	Andrew Stene	Ashton Weigland	Daniel Dunn	Ashton Weigland	Daniel Dunn
+2	8am-8pm	Andrew Dunn (M)	Ben Amos (M)	Beniah Gorman (M)	Caleb Satiwan (M)	Calvin Bailey (M)	Andrew Dunn (M)	Ben Amos (M)
+2	8am-8pm	Clay Graber	Clay Graber	Clay Graber	Jacen Clapp	Jacen Clapp	(Empty)	Jonathan Vigilus
+2	8am-8pm	Jonathan Vigilus	Jonathan Vigilus	Justin Yurosko	Justin Yurosko	(Empty)	Justin Yurosko	Keaton Reese
+2	8am-8pm	Keaton Reese	Keaton Reese	(Empty)	Kyle Arness	Kyle Arness	Kyle Arness	Luke Byers
+2	8am-8pm	Luke Byers	(Empty)	Luke Byers	Michael Falk	Michael Falk	Michael Falk	Michael Meador
+2	8pm-8am	Beniah Gorman (M)	Caleb Satiwan (M)	Calvin Bailey (M)	Andrew Dunn (M)	Ben Amos (M)	Beniah Gorman (M)	Caleb Satiwan (M)
+2	8pm-8am	Nathan Flemming	Nathan Flemming	Nathan Flemming 	(Empty)	Nathan Flesher	Nathan Flesher	Nathan Flesher
+2	8pm-8am	Jacen Clapp	Jacen Clapp	Andrew Dunn	Keaton Reese	Keaton Reese	Jacen Clapp	Clay Graber
+2	8pm-8am	Kyle Arness	Kyle Arness	Nathan Flesher	Luke Byers	(Empty)	Nathan Flemming	Nathan Flemming
+2	8pm-8am	(Empty)	Calvin Bailey	Andrew Dunn	Ben Amos	Beniah Gorman	Luke Byers	(Empty)
+3	8am-8pm	Noah Kraus (M)	Steven James (M)	Talon Collins (M)	Tanner Baumgart (M)	Tim Dobson (M)	William Wipperman (M)	Noah Kraus (M)
+3	8am-8pm	Mitch Leonardiwitz	Mitch Leonardiwitz	Mitch Leonarowitz	Shawn McCool	Shawn McCool	Shawn McCool	Josh Addee
+3	8am-8pm	Josh Addee	Josh Addee	(Empty)	Jaylin Boles	Jaylin Boles	Jaylin Boles	(Empty)
+3	8am-8pm	Kate Lyle	Kate Lyle	Kate Lyle	Josh Addee	Josh Addee	Mitch Leonardowitz	Mitch Leonardowitz
+3	8am-8pm	Shawn McCool	Shawn McCool	(Empty)	Josh Addee	Kate Lyle	Kate Lyle	Kate Lyle
+3	8pm-8am	Talon Collins (M)	Tanner Baumgart (M)	Tim Dobson (M)	William Wipperman (M)	Noah Kraus (M)	Steven James (M)	Talon Collins (M)
+3	8pm-8am	Andrew Kastendick	Andrew Kastendick	Andrew Kastendick	Maggie Furgeson	Maggie Fuergeson	Maggie Furgeson	Mitch Walden
+3	8pm-8am	(Empty)	Mitch Walden	Mitch Walden	Nate Sapp	Nate Sapp	Nate Sapp	Nate Sapp
+3	8pm-8am	Robbie Nutter 	Robbie Nutter	Robbie Nutter	Robbie Nutter	(Empty)	(Empty)	Anrew Kastendick
+3	8pm-8am	Maggie Fuerguson	(Empty)	Noah Kraus	(Empty)	William Wipperman	Robbie Nutter	Maggie Furgeson

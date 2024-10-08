@@ -1,0 +1,24 @@
+	Sunday	Monday	Tuesday	Wednesday	Thrusday	Friday	Saturday
+8am-8pm	Daniel Casimir (M)	Luis Blanco (M)	Ashton Weigland (M)	Daniel Casimir (M)	Michael Alyward (M)	Daniel Casimir (M)	Luis Blanco (M)
+8am-8pm	Luis Blanco	Daniel Casimir	(Empty)	Austin Boles	James Evans	Austin Boles	Andrew Luttrell
+8am-8pm	Ashton Weigland	(Empty)	Michael Alyward	Michael Alyward	Zach Eddings	Luis Blanco	(Empty)
+8am-8pm	(Empty)	Michael Alyward	James Evans	(Empty)	Alex Jager	Michael Alwayrd	(Empty)
+8am-8pm	James Evans	James Evans	Alex Jager	Ashton Weigland	Ed Cumberland	(Empty)	Zach Eddings
+8pm-8am	Max Schempf (M)	Max Schempf (M)	Luis Blanco (M)	Max Schempf (M)	Ashton Weigland (M)	Daniel Casimir (M)	Ashton Weigland (M)
+8pm-8am	Andrew Luttrell	Andrew Luttrell	Seth Hensarling	Daniel Hensarling	Seth Hensarling	Daniel Hensarling	James Evans
+8pm-8am	Ed Cumberland	Ed Cumberland	Daniel Hensarling	Andrew Luttrell	Tim Price	Zach Eddings	Alex Jager
+8pm-8am	Tim Price	(Empty)	Daniel Dunn	Daniel Dunn	Andrew Stene	Ed Cumberland	Andrew Stene
+8pm-8am	Zach Eddings	Zach Eddings	Andrew Stene	Ashton Weigland	Daniel Dunn	Ashton Weigland	Daniel Dunn
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
